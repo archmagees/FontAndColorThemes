@@ -158,9 +158,9 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.character</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.comment</key>
 		<string>CourierPrimeCode-Italic - 18.0</string>
 		<key>xcode.syntax.comment.doc</key>
@@ -168,49 +168,49 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>CourierPrimeCode-Italic - 18.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>CourierPrimeCode-Italic - 18.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>CourierPrimeCode-Italic - 18.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.mark</key>
 		<string>CourierPrimeCode-Italic - 18.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.number</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.string</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 		<key>xcode.syntax.url</key>
-		<string>CourierPrimeCode-Italic - 18.0</string>
+		<string>CourierPrimeCode-Regular - 18.0</string>
 	</dict>
 </dict>
 </plist>
