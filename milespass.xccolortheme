@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.82 0.84 0.88 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>CourierPrimeBits-Regular - 18.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.82 0.84 0.88 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>CourierPrimeBits-Regular - 18.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.219608 0.501961 0.913725 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>CourierPrimeBits-Regular - 18.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.82 0.84 0.88 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>CourierPrimeBits-Regular - 18.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.82 0.84 0.88 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>CourierPrimeBits-Regular - 18.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.137255 0.137255 0.137255 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0.898 0.416 0.69 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.164706 0.164706 0.164706 1</string>
+	<key>DVTFontAndColorVersion</key>
+	<integer>1</integer>
+	<key>DVTFontSizeModifier</key>
+	<integer>-5</integer>
+	<key>DVTLineSpacing</key>
+	<real>1.2000000476837158</real>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.137 0.137 0.137 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.282 0.356 0.486 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>SFMono-Regular - 10.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>0.82 0.84 0.88 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.SFNS-RegularItalic - 10.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>0.82 0.84 0.88 0.7</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.541 0.722 0.922 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.SFNS-Regular - 10.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>0.82 0.84 0.88 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.SFNS-Regular - 10.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>0.82 0.84 0.88 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.SFNS-Regular - 14.0</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>0.82 0.84 0.88 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.SFNS-Regular - 24.0</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>0.82 0.84 0.88 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.SFNS-Regular - 18.0</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>0.82 0.84 0.88 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.SFNS-Bold - 10.0</string>
+	<key>DVTScrollbarMarkerAnalyzerColor</key>
+	<string>0.251 0.227 1 1</string>
+	<key>DVTScrollbarMarkerBreakpointColor</key>
+	<string>0.176 0.176 0.969 1</string>
+	<key>DVTScrollbarMarkerDiffColor</key>
+	<string>0.82 0.84 0.88 1</string>
+	<key>DVTScrollbarMarkerDiffConflictColor</key>
+	<string>1 0.419 0.29 1</string>
+	<key>DVTScrollbarMarkerErrorColor</key>
+	<string>1 0.419 0.29 1</string>
+	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
+	<string>0.647 0.502 1 1</string>
+	<key>DVTScrollbarMarkerWarningColor</key>
+	<string>1 0.843 0 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.137 0.137 0.137 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.164706 0.164706 0.164706 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.898 0.416 0.69 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.454902 0.45098 0.411765 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.290196 0.356863 0.486275 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.769 0.318 0.647 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.898 0.627 0.102 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.109 0.627 0.353 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.219608 0.501961 0.913725 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.82 0.84 0.88 1</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>0.29 0.565 1 1</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>0.541 0.722 0.922 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.541 0.722 0.922 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.541 0.722 0.922 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.898 0.627 0.102 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.541 0.722 0.922 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.29 0.565 1 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.29 0.565 1 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>1 0.843 0 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>1 0.843 0 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.541 0.722 0.922 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.541 0.722 0.922 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.82 0.84 0.88 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.541 0.722 0.922 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.769 0.318 0.647 1</string>
+		<key>xcode.syntax.mark</key>
+		<string>0.82 0.84 0.88 1</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>0.29 0.557 1 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.898 0.627 0.102 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.82 0.84 0.88 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>1 0.843 0 1</string>
+		<key>xcode.syntax.regex</key>
+		<string>0.125 0.773 0.451 1</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>0.29 0.565 1 1</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>0.541 0.722 0.922 1</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>0.898 0.627 0.102 1</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>0.82 0.84 0.88 1</string>
+		<key>xcode.syntax.string</key>
+		<string>1 0.419 0.29 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.541 0.722 0.922 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.character</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.declaration.other</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.declaration.type</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.mark</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.markup.code</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.number</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.regex</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.string</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+		<key>xcode.syntax.url</key>
+		<string>CourierPrimeBits-Regular - 18.0</string>
+	</dict>
+</dict>
+</plist>
